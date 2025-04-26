@@ -1,10 +1,10 @@
-# 👋 Eae! Eu sou o Miguel Pinho
+# 👋 Dale! Eu sou o Miguel Pinho
 
 🎓 Estudante de Engenharia de Computação na Universidade Federal do Rio Grande (FURG), atualmente no 2º ano da graduação
 
 💼 Cientista de Dados Jr. e Desenvolvedor Jr. na empresa Doutor Multas, em Pelotas/RS
 
-🔬 Entusiasta da área de Machine Learning, Python e aplicações matemáticas na engenharia
+🔬 Entusiasta da área de Machine Learning e aplicações matemáticas na engenharia
 
 ### 🔍 Experiência em:
 - Análise exploratória de dados (EDA)
@@ -21,11 +21,12 @@
 ### 🏆 Conquistas:
 - Campeão da competição "Brazilian Tweet Sentiment Analysis Challenge" na plataforma Kaggle, atingindo 1.0 de acurácia com modelos de NLP.
 
-### 📂 Projetos pessoais:
-- Titanic - Machine Learning from Disaster
-- Predict Heart Disease
-- Pneumonia Detection usando Redes Neurais
+### 📂 Alguns projetos pessoais:
+- CIFAR10 dataset to Image Classification (CNN)
+- Pneumonia Detection com redes neurais convolucionais (CNN)
+- Iris dataset classification
+- Titanic – Machine Learning from Disaster
 
 ### 📫 Entre em contato:
-- [LinkedIn](www.linkedin.com/in/miguel-pinho-cunha)
+- [LinkedIn](www.linkedin.com/in/miguel-pinho-cunha/)
 - [E-mail](miguelpinhobjj@gmail.com)
