@@ -28,5 +28,5 @@
 - Titanic – Machine Learning from Disaster
 
 ### 📫 Entre em contato:
-- [LinkedIn](www.linkedin.com/in/miguel-pinho-cunha/)
+- [LinkedIn](https://www.linkedin.com/in/miguel-pinho-cunha/)
 - [E-mail](miguelpinhobjj@gmail.com)
