@@ -2,9 +2,7 @@
 
 🎓 Estudante de Engenharia de Computação na Universidade Federal do Rio Grande (FURG), atualmente no 2º ano da graduação
 
-💼 Cientista de Dados Jr. e Desenvolvedor Jr. na empresa Doutor Multas, em Pelotas/RS
-
-🔬 Entusiasta da área de Machine Learning e aplicações matemáticas na engenharia
+🔬 Entusiasta da área de Machine Learning, Ciência de Dados e aplicações matemáticas na engenharia
 
 ### 🔍 Experiência em:
 - Análise exploratória de dados (EDA)
